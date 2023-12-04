@@ -7,8 +7,3 @@ elif total > 50:
     print("Buy me some coffee you cheap!" )
 else:
     print("You are a poor guy, go away!")
-    
-    
-    
-    
-    
